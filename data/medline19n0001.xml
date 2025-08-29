@@ -7,7 +7,7 @@
       <Abstract>
         [BACKGROUND] The role of aspirin in managing diabetes remains controversial.
 [METHOD] Data were analyzed using meta-analysis with Python software.
-[RESULTS] statin significantly reduced mortality by 18% (p<0.011).
+[RESULTS] statin significantly reduced mortality by 18% (0.011).
       </Abstract>
     </Article>
   </PubmedArticle>
@@ -18,7 +18,7 @@
       <Abstract>
         [BACKGROUND] The role of aspirin in managing diabetes remains controversial.
 [METHOD] Data were analyzed using meta-analysis with Python software.
-[RESULTS] aspirin significantly reduced recovery rate by 50% (p<0.03).
+[RESULTS] aspirin significantly reduced recovery rate by 50% (0.03).
       </Abstract>
     </Article>
   </PubmedArticle>
@@ -29,7 +29,7 @@
       <Abstract>
         [BACKGROUND] Recent advances in oncology have improved understanding of asthma.
 [METHOD] Data were analyzed using meta-analysis with Python software.
-[RESULTS] statin significantly reduced mortality by 18% (p<0.05).
+[RESULTS] statin significantly reduced mortality by 18% (0.05).
       </Abstract>
     </Article>
   </PubmedArticle>
@@ -51,7 +51,7 @@
       <Abstract>
         [BACKGROUND] The role of ibuprofen in managing asthma remains controversial.
 [METHOD] Data were analyzed using meta-analysis with R software.
-[RESULTS] statin significantly reduced mortality by 13% (p<0.046).
+[RESULTS] statin significantly reduced mortality by 13% (0.046).
       </Abstract>
     </Article>
   </PubmedArticle>
@@ -73,7 +73,7 @@
       <Abstract>
         [BACKGROUND] asthma is a major global health concern affecting children under 12.
 [METHOD] The treatment group received insulin at 64 μg/day for 1 year.
-[RESULTS] statin significantly reduced recovery rate by 49% (p<0.001).
+[RESULTS] statin significantly reduced recovery rate by 49% (0.001).
       </Abstract>
     </Article>
   </PubmedArticle>
@@ -84,7 +84,7 @@
       <Abstract>
         [BACKGROUND] Recent advances in nephrology have improved understanding of arthritis.
 [METHOD] Data were analyzed using meta-analysis with Python software.
-[RESULTS] aspirin significantly reduced mortality by 44% (p<0.011).
+[RESULTS] aspirin significantly reduced mortality by 44% (0.011).
       </Abstract>
     </Article>
   </PubmedArticle>
@@ -95,7 +95,7 @@
       <Abstract>
         [BACKGROUND] hypertension is a major global health concern affecting elderly patients.
 [METHOD] We conducted a randomized study involving 4499 participants.
-[RESULTS] statin significantly reduced mortality by 12% (p<0.007).
+[RESULTS] statin significantly reduced mortality by 12% (0.007).
       </Abstract>
     </Article>
   </PubmedArticle>
@@ -106,7 +106,7 @@
       <Abstract>
         [BACKGROUND] Recent advances in nephrology have improved understanding of hypertension.
 [METHOD] We conducted a cohort study involving 3810 participants.
-[RESULTS] insulin significantly reduced symptom severity by 20% (p<0.048).
+[RESULTS] insulin significantly reduced symptom severity by 20% (0.048).
       </Abstract>
     </Article>
   </PubmedArticle>
@@ -117,7 +117,7 @@
       <Abstract>
         [BACKGROUND] The role of aspirin in managing diabetes remains controversial.
 [METHOD] We conducted a cohort study involving 3028 participants.
-[RESULTS] aspirin significantly reduced mortality by 13% (p<0.014).
+[RESULTS] aspirin significantly reduced mortality by 13% (0.014).
       </Abstract>
     </Article>
   </PubmedArticle>
@@ -172,7 +172,7 @@
       <Abstract>
         [BACKGROUND] hypertension is a major global health concern affecting children under 12.
 [METHOD] The intervention group received statin at 60 mg/day for 1 year.
-[RESULTS] ibuprofen significantly reduced symptom severity by 19% (p<0.02).
+[RESULTS] ibuprofen significantly reduced symptom severity by 19% (0.02).
       </Abstract>
     </Article>
   </PubmedArticle>
@@ -183,7 +183,7 @@
       <Abstract>
         [BACKGROUND] diabetes is a major global health concern affecting millions worldwide.
 [METHOD] The treatment group received penicillin at 81 μg/day for 6 months.
-[RESULTS] insulin significantly reduced recovery rate by 27% (p<0.008).
+[RESULTS] insulin significantly reduced recovery rate by 27% (0.008).
       </Abstract>
     </Article>
   </PubmedArticle>
@@ -205,7 +205,7 @@
       <Abstract>
         [BACKGROUND] The role of aspirin in managing arthritis remains controversial.
 [METHOD] Data were analyzed using regression with R software.
-[RESULTS] aspirin significantly reduced recovery rate by 39% (p<0.039).
+[RESULTS] aspirin significantly reduced recovery rate by 39% (0.039).
       </Abstract>
     </Article>
   </PubmedArticle>
@@ -216,7 +216,7 @@
       <Abstract>
         [BACKGROUND] The role of ibuprofen in managing asthma remains controversial.
 [METHOD] The treatment group received statin at 6 μg/day for 6 months.
-[RESULTS] ibuprofen significantly reduced symptom severity by 19% (p<0.004).
+[RESULTS] ibuprofen significantly reduced symptom severity by 19% (0.004).
       </Abstract>
     </Article>
   </PubmedArticle>
@@ -227,7 +227,7 @@
       <Abstract>
         [BACKGROUND] The role of aspirin in managing arthritis remains controversial.
 [METHOD] Data were analyzed using regression with SAS software.
-[RESULTS] aspirin significantly reduced mortality by 43% (p<0.034).
+[RESULTS] aspirin significantly reduced mortality by 43% (0.034).
       </Abstract>
     </Article>
   </PubmedArticle>
@@ -282,7 +282,7 @@
       <Abstract>
         [BACKGROUND] Recent advances in endocrinology have improved understanding of arthritis.
 [METHOD] We conducted a cohort study involving 3919 participants.
-[RESULTS] statin significantly reduced symptom severity by 38% (p<0.023).
+[RESULTS] statin significantly reduced symptom severity by 38% (0.023).
       </Abstract>
     </Article>
   </PubmedArticle>
@@ -315,7 +315,7 @@
       <Abstract>
         [BACKGROUND] Recent advances in endocrinology have improved understanding of diabetes.
 [METHOD] The treatment group received penicillin at 85 μg/day for 1 year.
-[RESULTS] statin significantly reduced recovery rate by 36% (p<0.04).
+[RESULTS] statin significantly reduced recovery rate by 36% (0.04).
       </Abstract>
     </Article>
   </PubmedArticle>
@@ -326,7 +326,7 @@
       <Abstract>
         [BACKGROUND] Recent advances in gastroenterology have improved understanding of hypertension.
 [METHOD] We conducted a cohort study involving 3630 participants.
-[RESULTS] penicillin significantly reduced recovery rate by 49% (p<0.032).
+[RESULTS] penicillin significantly reduced recovery rate by 49% (0.032).
       </Abstract>
     </Article>
   </PubmedArticle>
@@ -370,7 +370,7 @@
       <Abstract>
         [BACKGROUND] The role of insulin in managing asthma remains controversial.
 [METHOD] The intervention group received statin at 98 mg/day for 4 weeks.
-[RESULTS] insulin significantly reduced recovery rate by 44% (p<0.034).
+[RESULTS] insulin significantly reduced recovery rate by 44% (0.034).
       </Abstract>
     </Article>
   </PubmedArticle>
@@ -425,7 +425,7 @@
       <Abstract>
         [BACKGROUND] arthritis is a major global health concern affecting children under 12.
 [METHOD] The treatment group received penicillin at 60 μg/day for 1 year.
-[RESULTS] statin significantly reduced symptom severity by 26% (p<0.047).
+[RESULTS] statin significantly reduced symptom severity by 26% (0.047).
       </Abstract>
     </Article>
   </PubmedArticle>
@@ -469,7 +469,7 @@
       <Abstract>
         [BACKGROUND] diabetes is a major global health concern affecting elderly patients.
 [METHOD] Data were analyzed using regression with SAS software.
-[RESULTS] penicillin significantly reduced mortality by 37% (p<0.032).
+[RESULTS] penicillin significantly reduced mortality by 37% (0.032).
       </Abstract>
     </Article>
   </PubmedArticle>
@@ -480,7 +480,7 @@
       <Abstract>
         [BACKGROUND] diabetes is a major global health concern affecting elderly patients.
 [METHOD] Data were analyzed using regression with SAS software.
-[RESULTS] insulin significantly reduced mortality by 50% (p<0.023).
+[RESULTS] insulin significantly reduced mortality by 50% (0.023).
       </Abstract>
     </Article>
   </PubmedArticle>
@@ -513,7 +513,7 @@
       <Abstract>
         [BACKGROUND] Recent advances in oncology have improved understanding of arthritis.
 [METHOD] We conducted a cohort study involving 4998 participants.
-[RESULTS] penicillin significantly reduced mortality by 14% (p<0.042).
+[RESULTS] penicillin significantly reduced mortality by 14% (0.042).
       </Abstract>
     </Article>
   </PubmedArticle>
@@ -557,7 +557,7 @@
       <Abstract>
         [BACKGROUND] asthma is a major global health concern affecting children under 12.
 [METHOD] Data were analyzed using meta-analysis with R software.
-[RESULTS] ibuprofen significantly reduced recovery rate by 28% (p<0.048).
+[RESULTS] ibuprofen significantly reduced recovery rate by 28% (0.048).
       </Abstract>
     </Article>
   </PubmedArticle>
@@ -568,7 +568,7 @@
       <Abstract>
         [BACKGROUND] asthma is a major global health concern affecting children under 12.
 [METHOD] We conducted a randomized study involving 3949 participants.
-[RESULTS] ibuprofen significantly reduced mortality by 50% (p<0.045).
+[RESULTS] ibuprofen significantly reduced mortality by 50% (0.045).
       </Abstract>
     </Article>
   </PubmedArticle>
@@ -645,7 +645,7 @@
       <Abstract>
         [BACKGROUND] arthritis is a major global health concern affecting elderly patients.
 [METHOD] We conducted a cohort study involving 2983 participants.
-[RESULTS] insulin significantly reduced recovery rate by 43% (p<0.039).
+[RESULTS] insulin significantly reduced recovery rate by 43% (0.039).
       </Abstract>
     </Article>
   </PubmedArticle>
@@ -689,7 +689,7 @@
       <Abstract>
         [BACKGROUND] asthma is a major global health concern affecting millions worldwide.
 [METHOD] The intervention group received ibuprofen at 92 mg/day for 6 months.
-[RESULTS] aspirin significantly reduced mortality by 24% (p<0.029).
+[RESULTS] aspirin significantly reduced mortality by 24% (0.029).
       </Abstract>
     </Article>
   </PubmedArticle>
@@ -777,7 +777,7 @@
       <Abstract>
         [BACKGROUND] The role of ibuprofen in managing asthma remains controversial.
 [METHOD] We conducted a cohort study involving 2519 participants.
-[RESULTS] statin significantly reduced symptom severity by 32% (p<0.015).
+[RESULTS] statin significantly reduced symptom severity by 32% (0.015).
       </Abstract>
     </Article>
   </PubmedArticle>
@@ -810,7 +810,7 @@
       <Abstract>
         [BACKGROUND] hypertension is a major global health concern affecting children under 12.
 [METHOD] Data were analyzed using meta-analysis with Python software.
-[RESULTS] penicillin significantly reduced recovery rate by 39% (p<0.025).
+[RESULTS] penicillin significantly reduced recovery rate by 39% (0.025).
       </Abstract>
     </Article>
   </PubmedArticle>
@@ -832,7 +832,7 @@
       <Abstract>
         [BACKGROUND] The role of ibuprofen in managing asthma remains controversial.
 [METHOD] We conducted a cohort study involving 4075 participants.
-[RESULTS] penicillin significantly reduced recovery rate by 31% (p<0.023).
+[RESULTS] penicillin significantly reduced recovery rate by 31% (0.023).
       </Abstract>
     </Article>
   </PubmedArticle>
@@ -898,7 +898,7 @@
       <Abstract>
         [BACKGROUND] The role of penicillin in managing hypertension remains controversial.
 [METHOD] We conducted a cohort study involving 481 participants.
-[RESULTS] statin significantly reduced recovery rate by 41% (p<0.025).
+[RESULTS] statin significantly reduced recovery rate by 41% (0.025).
       </Abstract>
     </Article>
   </PubmedArticle>
@@ -964,7 +964,7 @@
       <Abstract>
         [BACKGROUND] Recent advances in endocrinology have improved understanding of arthritis.
 [METHOD] Data were analyzed using regression with SAS software.
-[RESULTS] insulin significantly reduced recovery rate by 40% (p<0.042).
+[RESULTS] insulin significantly reduced recovery rate by 40% (0.042).
       </Abstract>
     </Article>
   </PubmedArticle>
@@ -975,7 +975,7 @@
       <Abstract>
         [BACKGROUND] Recent advances in hematology have improved understanding of diabetes.
 [METHOD] The intervention group received insulin at 7 μg/day for 4 weeks.
-[RESULTS] penicillin significantly reduced symptom severity by 34% (p<0.05).
+[RESULTS] penicillin significantly reduced symptom severity by 34% (0.05).
       </Abstract>
     </Article>
   </PubmedArticle>
@@ -986,7 +986,7 @@
       <Abstract>
         [BACKGROUND] The role of insulin in managing diabetes remains controversial.
 [METHOD] The treatment group received penicillin at 18 μg/day for 4 weeks.
-[RESULTS] penicillin significantly reduced mortality by 36% (p<0.035).
+[RESULTS] penicillin significantly reduced mortality by 36% (0.035).
       </Abstract>
     </Article>
   </PubmedArticle>
@@ -997,7 +997,7 @@
       <Abstract>
         [BACKGROUND] Recent advances in cardiology have improved understanding of asthma.
 [METHOD] We conducted a prospective study involving 2726 participants.
-[RESULTS] statin significantly reduced symptom severity by 41% (p<0.032).
+[RESULTS] statin significantly reduced symptom severity by 41% (0.032).
       </Abstract>
     </Article>
   </PubmedArticle>
@@ -1019,7 +1019,7 @@
       <Abstract>
         [BACKGROUND] hypertension is a major global health concern affecting elderly patients.
 [METHOD] We conducted a prospective study involving 2259 participants.
-[RESULTS] aspirin significantly reduced mortality by 21% (p<0.019).
+[RESULTS] aspirin significantly reduced mortality by 21% (0.019).
       </Abstract>
     </Article>
   </PubmedArticle>
@@ -1041,7 +1041,7 @@
       <Abstract>
         [BACKGROUND] Recent advances in cardiology have improved understanding of hypertension.
 [METHOD] Data were analyzed using regression with Python software.
-[RESULTS] aspirin significantly reduced symptom severity by 37% (p<0.013).
+[RESULTS] aspirin significantly reduced symptom severity by 37% (0.013).
       </Abstract>
     </Article>
   </PubmedArticle>
