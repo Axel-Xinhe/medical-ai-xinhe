@@ -1,0 +1,1103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PubmedArticleSet>
+  <PubmedArticle>
+    <PMID>1000001</PMID>
+    <Article>
+      <ArticleTitle>Effect of insulin on Cardiovascular Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] The role of aspirin in managing diabetes remains controversial.
+[METHOD] Data were analyzed using meta-analysis with Python software.
+[RESULTS] statin significantly reduced mortality by 18% (p<0.011).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000002</PMID>
+    <Article>
+      <ArticleTitle>Effect of ibuprofen on Cardiovascular Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] The role of aspirin in managing diabetes remains controversial.
+[METHOD] Data were analyzed using meta-analysis with Python software.
+[RESULTS] aspirin significantly reduced recovery rate by 50% (p<0.03).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000003</PMID>
+    <Article>
+      <ArticleTitle>Effect of oncology on Metabolic Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] Recent advances in oncology have improved understanding of asthma.
+[METHOD] Data were analyzed using meta-analysis with Python software.
+[RESULTS] statin significantly reduced mortality by 18% (p<0.05).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000004</PMID>
+    <Article>
+      <ArticleTitle>Effect of μ-opioid on Metabolic Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] arthritis is a major global health concern affecting children under 12.
+[METHOD] The intervention group received aspirin at 12 μg/day for 4 weeks.
+[RESULTS] No serious adverse events were reported in the insulin group.
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000005</PMID>
+    <Article>
+      <ArticleTitle>Effect of γ-aminobutyric acid on Metabolic Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] The role of ibuprofen in managing asthma remains controversial.
+[METHOD] Data were analyzed using meta-analysis with R software.
+[RESULTS] statin significantly reduced mortality by 13% (p<0.046).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000006</PMID>
+    <Article>
+      <ArticleTitle>Effect of statin on Metabolic Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] The role of aspirin in managing asthma remains controversial.
+[METHOD] We conducted a randomized study involving 1972 participants.
+[RESULTS] The recovery rate was higher in experimental compared to control (OR=1.4).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000007</PMID>
+    <Article>
+      <ArticleTitle>Effect of statin on Metabolic Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] asthma is a major global health concern affecting children under 12.
+[METHOD] The treatment group received insulin at 64 μg/day for 1 year.
+[RESULTS] statin significantly reduced recovery rate by 49% (p<0.001).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000008</PMID>
+    <Article>
+      <ArticleTitle>Effect of hypertension on Neurological Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] Recent advances in nephrology have improved understanding of arthritis.
+[METHOD] Data were analyzed using meta-analysis with Python software.
+[RESULTS] aspirin significantly reduced mortality by 44% (p<0.011).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000009</PMID>
+    <Article>
+      <ArticleTitle>Effect of μ-opioid on Metabolic Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] hypertension is a major global health concern affecting elderly patients.
+[METHOD] We conducted a randomized study involving 4499 participants.
+[RESULTS] statin significantly reduced mortality by 12% (p<0.007).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000010</PMID>
+    <Article>
+      <ArticleTitle>Effect of γ-aminobutyric acid on Metabolic Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] Recent advances in nephrology have improved understanding of hypertension.
+[METHOD] We conducted a cohort study involving 3810 participants.
+[RESULTS] insulin significantly reduced symptom severity by 20% (p<0.048).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000011</PMID>
+    <Article>
+      <ArticleTitle>Effect of neurology on Metabolic Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] The role of aspirin in managing diabetes remains controversial.
+[METHOD] We conducted a cohort study involving 3028 participants.
+[RESULTS] aspirin significantly reduced mortality by 13% (p<0.014).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000012</PMID>
+    <Article>
+      <ArticleTitle>Effect of penicillin on Neurological Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] asthma is a major global health concern affecting millions worldwide.
+[METHOD] Data were analyzed using meta-analysis with SAS software.
+[RESULTS] No serious adverse events were reported in the ibuprofen group.
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000013</PMID>
+    <Article>
+      <ArticleTitle>Effect of aspirin on Cardiovascular Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] asthma is a major global health concern affecting millions worldwide.
+[METHOD] We conducted a prospective study involving 1930 participants.
+[RESULTS] The symptom severity was higher in experimental compared to control (OR=3.0).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000014</PMID>
+    <Article>
+      <ArticleTitle>Effect of neurology on Cardiovascular Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] arthritis is a major global health concern affecting children under 12.
+[METHOD] We conducted a cohort study involving 2415 participants.
+[RESULTS] No serious adverse events were reported in the ibuprofen group.
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000015</PMID>
+    <Article>
+      <ArticleTitle>Effect of β-β-blocker on Cardiovascular Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] Recent advances in cardiology have improved understanding of hypertension.
+[METHOD] The treatment group received statin at 72 μg/day for 1 year.
+[RESULTS] No serious adverse events were reported in the insulin group.
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000016</PMID>
+    <Article>
+      <ArticleTitle>Effect of β-β-blocker on Cardiovascular Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] hypertension is a major global health concern affecting children under 12.
+[METHOD] The intervention group received statin at 60 mg/day for 1 year.
+[RESULTS] ibuprofen significantly reduced symptom severity by 19% (p<0.02).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000017</PMID>
+    <Article>
+      <ArticleTitle>Effect of μ-opioid on Neurological Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] diabetes is a major global health concern affecting millions worldwide.
+[METHOD] The treatment group received penicillin at 81 μg/day for 6 months.
+[RESULTS] insulin significantly reduced recovery rate by 27% (p<0.008).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000018</PMID>
+    <Article>
+      <ArticleTitle>Effect of diabetes on Neurological Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] The role of aspirin in managing diabetes remains controversial.
+[METHOD] Data were analyzed using meta-analysis with Python software.
+[RESULTS] No serious adverse events were reported in the ibuprofen group.
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000019</PMID>
+    <Article>
+      <ArticleTitle>Effect of aspirin on Metabolic Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] The role of aspirin in managing arthritis remains controversial.
+[METHOD] Data were analyzed using regression with R software.
+[RESULTS] aspirin significantly reduced recovery rate by 39% (p<0.039).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000020</PMID>
+    <Article>
+      <ArticleTitle>Effect of insulin on Cardiovascular Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] The role of ibuprofen in managing asthma remains controversial.
+[METHOD] The treatment group received statin at 6 μg/day for 6 months.
+[RESULTS] ibuprofen significantly reduced symptom severity by 19% (p<0.004).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000021</PMID>
+    <Article>
+      <ArticleTitle>Effect of insulin on Neurological Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] The role of aspirin in managing arthritis remains controversial.
+[METHOD] Data were analyzed using regression with SAS software.
+[RESULTS] aspirin significantly reduced mortality by 43% (p<0.034).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000022</PMID>
+    <Article>
+      <ArticleTitle>Effect of μ-opioid on Neurological Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] The role of aspirin in managing arthritis remains controversial.
+[METHOD] Data were analyzed using regression with Python software.
+[RESULTS] The mortality was higher in experimental compared to control (OR=2.3).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000023</PMID>
+    <Article>
+      <ArticleTitle>Effect of hypertension on Cardiovascular Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] The role of ibuprofen in managing diabetes remains controversial.
+[METHOD] The treatment group received statin at 54 mg/day for 1 year.
+[RESULTS] No serious adverse events were reported in the statin group.
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000024</PMID>
+    <Article>
+      <ArticleTitle>Effect of aspirin on Cardiovascular Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] Recent advances in nephrology have improved understanding of hypertension.
+[METHOD] The treatment group received penicillin at 11 μg/day for 4 weeks.
+[RESULTS] No serious adverse events were reported in the penicillin group.
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000025</PMID>
+    <Article>
+      <ArticleTitle>Effect of insulin on Neurological Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] asthma is a major global health concern affecting elderly patients.
+[METHOD] The treatment group received ibuprofen at 27 mg/day for 1 year.
+[RESULTS] The recovery rate was higher in experimental compared to control (OR=2.8).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000026</PMID>
+    <Article>
+      <ArticleTitle>Effect of diabetes on Cardiovascular Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] Recent advances in endocrinology have improved understanding of arthritis.
+[METHOD] We conducted a cohort study involving 3919 participants.
+[RESULTS] statin significantly reduced symptom severity by 38% (p<0.023).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000027</PMID>
+    <Article>
+      <ArticleTitle>Effect of hypertension on Metabolic Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] diabetes is a major global health concern affecting children under 12.
+[METHOD] The intervention group received ibuprofen at 63 mg/day for 4 weeks.
+[RESULTS] The mortality was higher in treatment compared to control (OR=3.2).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000028</PMID>
+    <Article>
+      <ArticleTitle>Effect of ibuprofen on Neurological Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] The role of ibuprofen in managing asthma remains controversial.
+[METHOD] Data were analyzed using regression with Python software.
+[RESULTS] No serious adverse events were reported in the penicillin group.
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000029</PMID>
+    <Article>
+      <ArticleTitle>Effect of statin on Neurological Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] Recent advances in endocrinology have improved understanding of diabetes.
+[METHOD] The treatment group received penicillin at 85 μg/day for 1 year.
+[RESULTS] statin significantly reduced recovery rate by 36% (p<0.04).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000030</PMID>
+    <Article>
+      <ArticleTitle>Effect of hypertension on Cardiovascular Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] Recent advances in gastroenterology have improved understanding of hypertension.
+[METHOD] We conducted a cohort study involving 3630 participants.
+[RESULTS] penicillin significantly reduced recovery rate by 49% (p<0.032).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000031</PMID>
+    <Article>
+      <ArticleTitle>Effect of oncology on Cardiovascular Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] Recent advances in neurology have improved understanding of asthma.
+[METHOD] The treatment group received aspirin at 93 mg/day for 1 year.
+[RESULTS] The mortality was higher in experimental compared to control (OR=2.2).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000032</PMID>
+    <Article>
+      <ArticleTitle>Effect of β-β-blocker on Cardiovascular Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] hypertension is a major global health concern affecting elderly patients.
+[METHOD] The intervention group received aspirin at 50 μg/day for 1 year.
+[RESULTS] The mortality was higher in treatment compared to control (OR=2.2).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000033</PMID>
+    <Article>
+      <ArticleTitle>Effect of insulin on Neurological Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] asthma is a major global health concern affecting millions worldwide.
+[METHOD] Data were analyzed using regression with Python software.
+[RESULTS] No serious adverse events were reported in the penicillin group.
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000034</PMID>
+    <Article>
+      <ArticleTitle>Effect of neurology on Cardiovascular Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] The role of insulin in managing asthma remains controversial.
+[METHOD] The intervention group received statin at 98 mg/day for 4 weeks.
+[RESULTS] insulin significantly reduced recovery rate by 44% (p<0.034).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000035</PMID>
+    <Article>
+      <ArticleTitle>Effect of hypertension on Cardiovascular Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] hypertension is a major global health concern affecting elderly patients.
+[METHOD] The treatment group received statin at 63 mg/day for 6 months.
+[RESULTS] No serious adverse events were reported in the insulin group.
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000036</PMID>
+    <Article>
+      <ArticleTitle>Effect of ibuprofen on Cardiovascular Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] Recent advances in neurology have improved understanding of hypertension.
+[METHOD] We conducted a cohort study involving 4128 participants.
+[RESULTS] The symptom severity was higher in treatment compared to control (OR=2.4).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000037</PMID>
+    <Article>
+      <ArticleTitle>Effect of hypertension on Neurological Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] The role of ibuprofen in managing hypertension remains controversial.
+[METHOD] The treatment group received penicillin at 37 μg/day for 4 weeks.
+[RESULTS] No serious adverse events were reported in the insulin group.
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000038</PMID>
+    <Article>
+      <ArticleTitle>Effect of aspirin on Neurological Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] hypertension is a major global health concern affecting children under 12.
+[METHOD] Data were analyzed using meta-analysis with R software.
+[RESULTS] The symptom severity was higher in experimental compared to control (OR=2.7).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000039</PMID>
+    <Article>
+      <ArticleTitle>Effect of ibuprofen on Cardiovascular Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] arthritis is a major global health concern affecting children under 12.
+[METHOD] The treatment group received penicillin at 60 μg/day for 1 year.
+[RESULTS] statin significantly reduced symptom severity by 26% (p<0.047).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000040</PMID>
+    <Article>
+      <ArticleTitle>Effect of β-β-blocker on Neurological Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] hypertension is a major global health concern affecting millions worldwide.
+[METHOD] We conducted a randomized study involving 949 participants.
+[RESULTS] The mortality was higher in experimental compared to control (OR=1.6).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000041</PMID>
+    <Article>
+      <ArticleTitle>Effect of β-β-blocker on Neurological Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] Recent advances in nephrology have improved understanding of arthritis.
+[METHOD] We conducted a randomized study involving 4235 participants.
+[RESULTS] No serious adverse events were reported in the penicillin group.
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000042</PMID>
+    <Article>
+      <ArticleTitle>Effect of β-β-blocker on Metabolic Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] hypertension is a major global health concern affecting millions worldwide.
+[METHOD] The intervention group received aspirin at 20 mg/day for 4 weeks.
+[RESULTS] The recovery rate was higher in treatment compared to control (OR=1.3).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000043</PMID>
+    <Article>
+      <ArticleTitle>Effect of statin on Cardiovascular Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] diabetes is a major global health concern affecting elderly patients.
+[METHOD] Data were analyzed using regression with SAS software.
+[RESULTS] penicillin significantly reduced mortality by 37% (p<0.032).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000044</PMID>
+    <Article>
+      <ArticleTitle>Effect of γ-aminobutyric acid on Neurological Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] diabetes is a major global health concern affecting elderly patients.
+[METHOD] Data were analyzed using regression with SAS software.
+[RESULTS] insulin significantly reduced mortality by 50% (p<0.023).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000045</PMID>
+    <Article>
+      <ArticleTitle>Effect of insulin on Metabolic Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] Recent advances in nephrology have improved understanding of hypertension.
+[METHOD] Data were analyzed using regression with SAS software.
+[RESULTS] No serious adverse events were reported in the aspirin group.
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000046</PMID>
+    <Article>
+      <ArticleTitle>Effect of insulin on Neurological Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] The role of aspirin in managing arthritis remains controversial.
+[METHOD] We conducted a randomized study involving 308 participants.
+[RESULTS] The recovery rate was higher in experimental compared to control (OR=1.9).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000047</PMID>
+    <Article>
+      <ArticleTitle>Effect of penicillin on Neurological Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] Recent advances in oncology have improved understanding of arthritis.
+[METHOD] We conducted a cohort study involving 4998 participants.
+[RESULTS] penicillin significantly reduced mortality by 14% (p<0.042).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000048</PMID>
+    <Article>
+      <ArticleTitle>Effect of statin on Cardiovascular Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] The role of ibuprofen in managing diabetes remains controversial.
+[METHOD] Data were analyzed using meta-analysis with Python software.
+[RESULTS] The mortality was higher in experimental compared to control (OR=1.7).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000049</PMID>
+    <Article>
+      <ArticleTitle>Effect of penicillin on Cardiovascular Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] diabetes is a major global health concern affecting children under 12.
+[METHOD] Data were analyzed using meta-analysis with R software.
+[RESULTS] No serious adverse events were reported in the ibuprofen group.
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000050</PMID>
+    <Article>
+      <ArticleTitle>Effect of α-glucosidase on Cardiovascular Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] asthma is a major global health concern affecting children under 12.
+[METHOD] Data were analyzed using meta-analysis with SAS software.
+[RESULTS] The symptom severity was higher in treatment compared to control (OR=3.5).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000051</PMID>
+    <Article>
+      <ArticleTitle>Effect of γ-aminobutyric acid on Metabolic Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] asthma is a major global health concern affecting children under 12.
+[METHOD] Data were analyzed using meta-analysis with R software.
+[RESULTS] ibuprofen significantly reduced recovery rate by 28% (p<0.048).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000052</PMID>
+    <Article>
+      <ArticleTitle>Effect of α-glucosidase on Neurological Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] asthma is a major global health concern affecting children under 12.
+[METHOD] We conducted a randomized study involving 3949 participants.
+[RESULTS] ibuprofen significantly reduced mortality by 50% (p<0.045).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000053</PMID>
+    <Article>
+      <ArticleTitle>Effect of oncology on Cardiovascular Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] Recent advances in nephrology have improved understanding of asthma.
+[METHOD] We conducted a prospective study involving 3635 participants.
+[RESULTS] No serious adverse events were reported in the statin group.
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000054</PMID>
+    <Article>
+      <ArticleTitle>Effect of cardiovascular on Cardiovascular Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] Recent advances in endocrinology have improved understanding of asthma.
+[METHOD] Data were analyzed using regression with Python software.
+[RESULTS] The recovery rate was higher in experimental compared to control (OR=1.6).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000055</PMID>
+    <Article>
+      <ArticleTitle>Effect of μ-opioid on Neurological Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] Recent advances in nephrology have improved understanding of arthritis.
+[METHOD] We conducted a cohort study involving 4340 participants.
+[RESULTS] The symptom severity was higher in treatment compared to control (OR=3.2).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000056</PMID>
+    <Article>
+      <ArticleTitle>Effect of γ-aminobutyric acid on Metabolic Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] Recent advances in gastroenterology have improved understanding of asthma.
+[METHOD] The treatment group received insulin at 47 μg/day for 4 weeks.
+[RESULTS] No serious adverse events were reported in the ibuprofen group.
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000057</PMID>
+    <Article>
+      <ArticleTitle>Effect of μ-opioid on Cardiovascular Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] Recent advances in pulmonology have improved understanding of hypertension.
+[METHOD] Data were analyzed using meta-analysis with SAS software.
+[RESULTS] The recovery rate was higher in experimental compared to control (OR=3.4).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000058</PMID>
+    <Article>
+      <ArticleTitle>Effect of γ-aminobutyric acid on Cardiovascular Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] Recent advances in hematology have improved understanding of arthritis.
+[METHOD] We conducted a cohort study involving 3091 participants.
+[RESULTS] No serious adverse events were reported in the penicillin group.
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000059</PMID>
+    <Article>
+      <ArticleTitle>Effect of β-β-blocker on Metabolic Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] arthritis is a major global health concern affecting elderly patients.
+[METHOD] We conducted a cohort study involving 2983 participants.
+[RESULTS] insulin significantly reduced recovery rate by 43% (p<0.039).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000060</PMID>
+    <Article>
+      <ArticleTitle>Effect of hypertension on Cardiovascular Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] The role of insulin in managing asthma remains controversial.
+[METHOD] Data were analyzed using meta-analysis with Python software.
+[RESULTS] The symptom severity was higher in treatment compared to control (OR=1.6).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000061</PMID>
+    <Article>
+      <ArticleTitle>Effect of μ-opioid on Neurological Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] The role of statin in managing hypertension remains controversial.
+[METHOD] The intervention group received penicillin at 36 μg/day for 4 weeks.
+[RESULTS] No serious adverse events were reported in the ibuprofen group.
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000062</PMID>
+    <Article>
+      <ArticleTitle>Effect of μ-opioid on Cardiovascular Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] hypertension is a major global health concern affecting elderly patients.
+[METHOD] Data were analyzed using meta-analysis with SAS software.
+[RESULTS] The recovery rate was higher in treatment compared to control (OR=2.0).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000063</PMID>
+    <Article>
+      <ArticleTitle>Effect of μ-opioid on Neurological Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] asthma is a major global health concern affecting millions worldwide.
+[METHOD] The intervention group received ibuprofen at 92 mg/day for 6 months.
+[RESULTS] aspirin significantly reduced mortality by 24% (p<0.029).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000064</PMID>
+    <Article>
+      <ArticleTitle>Effect of neurology on Metabolic Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] arthritis is a major global health concern affecting millions worldwide.
+[METHOD] We conducted a prospective study involving 1488 participants.
+[RESULTS] The mortality was higher in treatment compared to control (OR=2.8).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000065</PMID>
+    <Article>
+      <ArticleTitle>Effect of hypertension on Neurological Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] Recent advances in hematology have improved understanding of diabetes.
+[METHOD] Data were analyzed using regression with SAS software.
+[RESULTS] The recovery rate was higher in treatment compared to control (OR=2.7).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000066</PMID>
+    <Article>
+      <ArticleTitle>Effect of β-β-blocker on Cardiovascular Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] The role of ibuprofen in managing diabetes remains controversial.
+[METHOD] Data were analyzed using meta-analysis with R software.
+[RESULTS] No serious adverse events were reported in the insulin group.
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000067</PMID>
+    <Article>
+      <ArticleTitle>Effect of neurology on Neurological Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] The role of penicillin in managing asthma remains controversial.
+[METHOD] Data were analyzed using regression with SAS software.
+[RESULTS] No serious adverse events were reported in the statin group.
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000068</PMID>
+    <Article>
+      <ArticleTitle>Effect of cardiovascular on Cardiovascular Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] Recent advances in oncology have improved understanding of hypertension.
+[METHOD] The treatment group received aspirin at 55 mg/day for 6 months.
+[RESULTS] No serious adverse events were reported in the statin group.
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000069</PMID>
+    <Article>
+      <ArticleTitle>Effect of α-glucosidase on Metabolic Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] hypertension is a major global health concern affecting elderly patients.
+[METHOD] We conducted a cohort study involving 1302 participants.
+[RESULTS] No serious adverse events were reported in the insulin group.
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000070</PMID>
+    <Article>
+      <ArticleTitle>Effect of statin on Neurological Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] The role of penicillin in managing diabetes remains controversial.
+[METHOD] Data were analyzed using regression with Python software.
+[RESULTS] The recovery rate was higher in experimental compared to control (OR=1.7).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000071</PMID>
+    <Article>
+      <ArticleTitle>Effect of diabetes on Metabolic Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] The role of ibuprofen in managing asthma remains controversial.
+[METHOD] We conducted a cohort study involving 2519 participants.
+[RESULTS] statin significantly reduced symptom severity by 32% (p<0.015).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000072</PMID>
+    <Article>
+      <ArticleTitle>Effect of insulin on Cardiovascular Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] The role of aspirin in managing diabetes remains controversial.
+[METHOD] We conducted a randomized study involving 545 participants.
+[RESULTS] The symptom severity was higher in treatment compared to control (OR=1.4).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000073</PMID>
+    <Article>
+      <ArticleTitle>Effect of α-glucosidase on Neurological Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] The role of insulin in managing asthma remains controversial.
+[METHOD] The intervention group received penicillin at 54 mg/day for 1 year.
+[RESULTS] The recovery rate was higher in treatment compared to control (OR=2.7).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000074</PMID>
+    <Article>
+      <ArticleTitle>Effect of diabetes on Neurological Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] hypertension is a major global health concern affecting children under 12.
+[METHOD] Data were analyzed using meta-analysis with Python software.
+[RESULTS] penicillin significantly reduced recovery rate by 39% (p<0.025).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000075</PMID>
+    <Article>
+      <ArticleTitle>Effect of β-β-blocker on Metabolic Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] The role of ibuprofen in managing arthritis remains controversial.
+[METHOD] We conducted a prospective study involving 323 participants.
+[RESULTS] No serious adverse events were reported in the ibuprofen group.
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000076</PMID>
+    <Article>
+      <ArticleTitle>Effect of β-β-blocker on Cardiovascular Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] The role of ibuprofen in managing asthma remains controversial.
+[METHOD] We conducted a cohort study involving 4075 participants.
+[RESULTS] penicillin significantly reduced recovery rate by 31% (p<0.023).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000077</PMID>
+    <Article>
+      <ArticleTitle>Effect of cardiovascular on Metabolic Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] Recent advances in endocrinology have improved understanding of arthritis.
+[METHOD] Data were analyzed using meta-analysis with R software.
+[RESULTS] No serious adverse events were reported in the penicillin group.
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000078</PMID>
+    <Article>
+      <ArticleTitle>Effect of oncology on Metabolic Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] The role of penicillin in managing diabetes remains controversial.
+[METHOD] We conducted a randomized study involving 1190 participants.
+[RESULTS] No serious adverse events were reported in the ibuprofen group.
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000079</PMID>
+    <Article>
+      <ArticleTitle>Effect of oncology on Neurological Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] asthma is a major global health concern affecting millions worldwide.
+[METHOD] We conducted a randomized study involving 2730 participants.
+[RESULTS] The mortality was higher in experimental compared to control (OR=2.0).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000080</PMID>
+    <Article>
+      <ArticleTitle>Effect of insulin on Cardiovascular Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] The role of ibuprofen in managing asthma remains controversial.
+[METHOD] Data were analyzed using regression with SAS software.
+[RESULTS] No serious adverse events were reported in the penicillin group.
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000081</PMID>
+    <Article>
+      <ArticleTitle>Effect of aspirin on Metabolic Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] Recent advances in nephrology have improved understanding of hypertension.
+[METHOD] We conducted a prospective study involving 2872 participants.
+[RESULTS] The mortality was higher in experimental compared to control (OR=2.6).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000082</PMID>
+    <Article>
+      <ArticleTitle>Effect of ibuprofen on Neurological Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] The role of penicillin in managing hypertension remains controversial.
+[METHOD] We conducted a cohort study involving 481 participants.
+[RESULTS] statin significantly reduced recovery rate by 41% (p<0.025).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000083</PMID>
+    <Article>
+      <ArticleTitle>Effect of hypertension on Metabolic Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] The role of aspirin in managing diabetes remains controversial.
+[METHOD] The treatment group received aspirin at 55 μg/day for 1 year.
+[RESULTS] The mortality was higher in experimental compared to control (OR=2.4).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000084</PMID>
+    <Article>
+      <ArticleTitle>Effect of penicillin on Cardiovascular Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] diabetes is a major global health concern affecting millions worldwide.
+[METHOD] The treatment group received insulin at 23 mg/day for 6 months.
+[RESULTS] The recovery rate was higher in treatment compared to control (OR=2.1).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000085</PMID>
+    <Article>
+      <ArticleTitle>Effect of cardiovascular on Metabolic Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] The role of insulin in managing asthma remains controversial.
+[METHOD] Data were analyzed using regression with R software.
+[RESULTS] The recovery rate was higher in experimental compared to control (OR=1.5).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000086</PMID>
+    <Article>
+      <ArticleTitle>Effect of γ-aminobutyric acid on Neurological Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] The role of statin in managing arthritis remains controversial.
+[METHOD] We conducted a prospective study involving 2787 participants.
+[RESULTS] The mortality was higher in treatment compared to control (OR=2.3).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000087</PMID>
+    <Article>
+      <ArticleTitle>Effect of neurology on Metabolic Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] hypertension is a major global health concern affecting millions worldwide.
+[METHOD] The intervention group received statin at 27 mg/day for 6 months.
+[RESULTS] The mortality was higher in experimental compared to control (OR=2.8).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000088</PMID>
+    <Article>
+      <ArticleTitle>Effect of μ-opioid on Cardiovascular Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] Recent advances in endocrinology have improved understanding of arthritis.
+[METHOD] Data were analyzed using regression with SAS software.
+[RESULTS] insulin significantly reduced recovery rate by 40% (p<0.042).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000089</PMID>
+    <Article>
+      <ArticleTitle>Effect of γ-aminobutyric acid on Neurological Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] Recent advances in hematology have improved understanding of diabetes.
+[METHOD] The intervention group received insulin at 7 μg/day for 4 weeks.
+[RESULTS] penicillin significantly reduced symptom severity by 34% (p<0.05).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000090</PMID>
+    <Article>
+      <ArticleTitle>Effect of μ-opioid on Neurological Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] The role of insulin in managing diabetes remains controversial.
+[METHOD] The treatment group received penicillin at 18 μg/day for 4 weeks.
+[RESULTS] penicillin significantly reduced mortality by 36% (p<0.035).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000091</PMID>
+    <Article>
+      <ArticleTitle>Effect of penicillin on Metabolic Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] Recent advances in cardiology have improved understanding of asthma.
+[METHOD] We conducted a prospective study involving 2726 participants.
+[RESULTS] statin significantly reduced symptom severity by 41% (p<0.032).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000092</PMID>
+    <Article>
+      <ArticleTitle>Effect of statin on Cardiovascular Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] The role of ibuprofen in managing diabetes remains controversial.
+[METHOD] The intervention group received penicillin at 62 mg/day for 4 weeks.
+[RESULTS] No serious adverse events were reported in the insulin group.
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000093</PMID>
+    <Article>
+      <ArticleTitle>Effect of hypertension on Metabolic Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] hypertension is a major global health concern affecting elderly patients.
+[METHOD] We conducted a prospective study involving 2259 participants.
+[RESULTS] aspirin significantly reduced mortality by 21% (p<0.019).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000094</PMID>
+    <Article>
+      <ArticleTitle>Effect of α-glucosidase on Cardiovascular Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] Recent advances in hematology have improved understanding of hypertension.
+[METHOD] Data were analyzed using meta-analysis with SAS software.
+[RESULTS] No serious adverse events were reported in the ibuprofen group.
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000095</PMID>
+    <Article>
+      <ArticleTitle>Effect of statin on Metabolic Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] Recent advances in cardiology have improved understanding of hypertension.
+[METHOD] Data were analyzed using regression with Python software.
+[RESULTS] aspirin significantly reduced symptom severity by 37% (p<0.013).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000096</PMID>
+    <Article>
+      <ArticleTitle>Effect of oncology on Cardiovascular Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] The role of statin in managing asthma remains controversial.
+[METHOD] Data were analyzed using regression with R software.
+[RESULTS] No serious adverse events were reported in the ibuprofen group.
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000097</PMID>
+    <Article>
+      <ArticleTitle>Effect of penicillin on Cardiovascular Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] arthritis is a major global health concern affecting millions worldwide.
+[METHOD] The treatment group received aspirin at 25 mg/day for 6 months.
+[RESULTS] The symptom severity was higher in experimental compared to control (OR=1.3).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000098</PMID>
+    <Article>
+      <ArticleTitle>Effect of β-β-blocker on Neurological Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] The role of penicillin in managing hypertension remains controversial.
+[METHOD] The treatment group received aspirin at 75 mg/day for 6 months.
+[RESULTS] The recovery rate was higher in experimental compared to control (OR=2.0).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000099</PMID>
+    <Article>
+      <ArticleTitle>Effect of statin on Cardiovascular Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] The role of ibuprofen in managing arthritis remains controversial.
+[METHOD] Data were analyzed using regression with SAS software.
+[RESULTS] The mortality was higher in experimental compared to control (OR=2.6).
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>1000100</PMID>
+    <Article>
+      <ArticleTitle>Effect of aspirin on Metabolic Outcomes</ArticleTitle>
+      <Abstract>
+        [BACKGROUND] Recent advances in hematology have improved understanding of asthma.
+[METHOD] We conducted a cohort study involving 1851 participants.
+[RESULTS] No serious adverse events were reported in the insulin group.
+      </Abstract>
+    </Article>
+  </PubmedArticle>
+</PubmedArticleSet>
