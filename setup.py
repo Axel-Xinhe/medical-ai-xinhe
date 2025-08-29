@@ -8,7 +8,7 @@ setup(
     packages=find_packages(),  # 自动发现所有Python模块
     install_requires=[      
         "requests>=2.31.0",   # 指定精确版本（避免依赖冲突）
-        "pandas==2.0.3",      # 用==锁定版本（生产环境必须）
+        "pandas==2.3.2",      # 用==锁定版本（生产环境必须）
         "python-dotenv"       # 后续会用于管理API密钥
     ],
     entry_points={  # 生成可执行命令
@@ -17,7 +17,7 @@ setup(
         ]
     },
     author="Axel",
-    description="Medical AI pipeline for PubMed data processing",  
-   # long_description=open("README.md").read(),
-    #long_description_content_type="text/markdown",
+    description="Medical AI pipeline for PubMed data processing", 
+    long_description=open("README.md", "r", encoding="utf-8") .read(),
+    long_description_content_type="text/markdown",
 )
